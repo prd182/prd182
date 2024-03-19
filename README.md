@@ -3,7 +3,7 @@
 Feel free to check out my [projects](https://github.com/prd182?tab=repositories) and to accompany my  ✨ _programming journey_ ✨
 
 
-> [!NOTE]
+> [!IMPORTANT]
 > I’m currently looking for work! Check out my [LinkedIn](https://www.linkedin.com/in/pedrorodriguesdias/) for more info about me
 
 
@@ -14,4 +14,4 @@ Feel free to check out my [projects](https://github.com/prd182?tab=repositories)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Stand-Up Comedy
 
-[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=codeSTACKr&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
