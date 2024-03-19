@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pedro! I'm a ~~Computer Wizard~~ Full-Stack Developer
+### Hi there 👋 I'm Pedro! I'm a ~~:crystal_ball:Computer Wizard~~ Full-Stack Developer
 
 Feel free to check out my projects and to accompany my  ✨ _programming journey_ ✨
 
