@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pedro! I'm a ~~:crystal_ball:Computer Wizard~~ Full-Stack Developer
+### Hi there 👋 I'm Pedro! I'm a <sub>~~:crystal_ball:Computer Wizard~~</sub> Full-Stack Developer
 
 Feel free to check out my projects and to accompany my  ✨ _programming journey_ ✨
 
@@ -11,3 +11,4 @@ Feel free to check out my projects and to accompany my  ✨ _programming journey
 - 📫 How to reach me: [Send me an email!](mailto:pedro.dias.182@hotmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Stand-Up Comedy
+<sub>subscript</sub>
