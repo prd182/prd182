@@ -3,7 +3,7 @@
 Feel free to check out my [projects](https://github.com/prd182?tab=repositories) and to accompany my  ✨ _programming journey_ ✨
 
 
-> [!IMPORTANT]
+> [!WARNING]
 > I’m currently looking for work! Check out my [LinkedIn](https://www.linkedin.com/in/pedrorodriguesdias/) for more info about me
 
 
