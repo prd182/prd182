@@ -14,13 +14,6 @@ Feel free to check out my [projects](https://github.com/prd182?tab=repositories)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Stand-Up Comedy
 
-[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only)](https://github.com/prd182/github-readme-stats#gh-dark-mode-only)
-[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/prd182/github-readme-stats#gh-light-mode-only)
+[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&hide_border=true&theme=slateorange)](https://github.com/prd182/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&layout=compact&hide_border=true&theme=slateorange#gh-dark-mode-only)](https://github.com/prd182/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&layout=compact&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/prd182/github-readme-stats#gh-light-mode-only)
-
-[![prd182 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/prd182/github-readme-stats#gh-dark-mode-only)
-[![prd182 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/prd182/github-readme-stats#gh-light-mode-only)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&layout=compact&hide_border=true&theme=slateorange)](https://github.com/prd182/github-readme-stats)
