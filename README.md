@@ -18,6 +18,6 @@ Feel free to check out my [projects](https://github.com/prd182?tab=repositories)
 [![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=slateorange#gh-dark-mode-only&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&layout=compact&hide_border=true&theme=slateorange#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&layout=compact&hide_border=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
