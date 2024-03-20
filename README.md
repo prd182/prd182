@@ -17,5 +17,3 @@ Feel free to check out my [projects](https://github.com/prd182?tab=repositories)
 [![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=slateorange&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prd182&repo=github-readme-stats)](https://github.com/prd182/Simple-HTTP-Server)
