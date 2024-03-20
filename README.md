@@ -14,10 +14,10 @@ Feel free to check out my [projects](https://github.com/prd182?tab=repositories)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Stand-Up Comedy
 
-[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=slateorange&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=swift&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=slateorange#gh-dark-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![prd182 GitHub stats](https://github-readme-stats.vercel.app/api?username=prd182&show_icons=true&theme=swift#gh-light-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=slateorange&layout=compact&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=swift&layout=compact&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=slateorange#gh-dark-mode-only&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prd182&show_icons=true&theme=swift#gh-light-mode-only&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
